@@ -13,9 +13,12 @@ This is a RESTful API built with Node.js and Express for managing products and c
 git clone https://github.com/rakesh331/my-ecommerce-backend.git
 cd my-ecommerce-backend
 
-## Run App
+## Install dependencies
 npm install
 
+## Run App
+npm run start
+
 ## Build App
-npm build
+npm run build
 

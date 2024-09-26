@@ -10,15 +10,19 @@ This is a RESTful API built with Node.js and Express for managing products and c
 - CORS support for cross-origin requests.
 
 ## Local setup 
+```bash
 git clone https://github.com/rakesh331/my-ecommerce-backend.git
 cd my-ecommerce-backend
 
 ## Install dependencies
+```bash
 npm install
 
 ## Run App
+```bash
 npm run start
 
 ## Build App
+```bash
 npm run build
 

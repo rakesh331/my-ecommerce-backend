@@ -8,3 +8,14 @@ This is a RESTful API built with Node.js and Express for managing products and c
 - Create, read, update, and delete coupons.
 - Input validation for products and coupons.
 - CORS support for cross-origin requests.
+
+## Local setup 
+git clone https://github.com/rakesh331/my-ecommerce-backend.git
+cd my-ecommerce-backend
+
+## Run App
+npm install
+
+## Build App
+npm build
+
